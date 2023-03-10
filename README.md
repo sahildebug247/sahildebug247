@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Yadav</h1>
 <h3 align="center">Individual with background in JavaScript, and distributed systems. Founded BitsBySugar (bitsbysugar.com) and have helped 10+ startups ship products to customers.</h3>
 
-- 🔭 I’m currently working on [Building BitsBySugar](https://bitsbysugar.com)
+- 🔭 I’m currently [Building BitsBySugar](https://bitsbysugar.com)
 
 - 👯 I’m looking to collaborate on **NodeJS || WebApps || SEO Solutions || Docker || Distributed Systems**
 
