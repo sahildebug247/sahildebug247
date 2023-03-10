@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [sahilyadav.in](https://sahilyadav.in)
 
-- 📝 I regularly write articles on [bitsbysugar.com](https://bitsbysugar.com)
+- 📝 I regularly write articles on [BitsBySugar](https://bitsbysugar.com)
 
 - 💬 Ask me about **node, react, nestjs, typeorm, postgres**
 
