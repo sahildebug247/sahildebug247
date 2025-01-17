@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Building [BitsBySugar](https://bitsbysugar.com)
 
-- 👯 I’m looking to collaborate on **NodeJS || WebApps || SEO Solutions || Docker || Distributed Systems**
+- 👯 I’m looking to collaborate on **NodeJS || WebApps || LangChain || Docker || Distributed Systems**
 
 - 👨‍💻 All of my projects are available at [sahilyadav.in](https://sahilyadav.in)
 
