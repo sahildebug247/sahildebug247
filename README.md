@@ -9,16 +9,16 @@ I am a backend specialist and infrastructure lead with over 5 years of experienc
 ## 🚀 Engineering at Scale
 I enjoy solving hard problems related to concurrency, database locking, and distributed architectures. Some of my career highlights include:
 
-* **Fleet Management:** Designed a master-worker distributed scraping system running on **5,000+ AWS EC2 instances**[cite: 17].
-* **Database Performance:** Scaled PostgreSQL infrastructure to handle **1M+ writes and multi-million reads per hour**, utilizing partitioning and archival policies to reduce AWS RDS costs by 50%[cite: 23, 26].
-* **Observability:** Implemented OpenTelemetry (Signoz) to fine-tune query performance and infrastructure health[cite: 25].
+* **Fleet Management:** Designed a master-worker distributed scraping system running on **5,000+ AWS EC2 instances**.
+* **Database Performance:** Scaled PostgreSQL infrastructure to handle **1M+ writes and multi-million reads per hour**, utilizing partitioning and archival policies to reduce AWS RDS costs by 50%.
+* **Observability:** Implemented OpenTelemetry (Signoz) to fine-tune query performance and infrastructure health.
 
 ## 🤖 AI & LLM Agents
 Currently bridging the gap between traditional backend engineering and Generative AI:
 
-* **RAG & Retrieval:** Engineered "Agent Blue" using **Anthropic Claude**, enabling natural language querying across 5M+ company records[cite: 9].
-* **Voice AI:** Built real-time voice bots on **LiveKit** (Python/Node) with pluggable STT/TTS and LLM support[cite: 13].
-* **Automation:** Developed automated response systems using **Google Gemini (Vertex AI)** and **LangChain**[cite: 21].
+* **RAG & Retrieval:** Engineered "Agent Blue" using **Anthropic Claude**, enabling natural language querying across 5M+ company records.
+* **Voice AI:** Built real-time voice bots on **LiveKit** (Python/Node) with pluggable STT/TTS and LLM support.
+* **Automation:** Developed automated response systems using **Google Gemini (Vertex AI)** and **LangChain**.
 
 ---
 
